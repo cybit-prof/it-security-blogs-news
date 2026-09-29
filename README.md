@@ -10,4 +10,4 @@ The following is a list of good IT security/cybersecurity blogs and news sites t
 [The Hacker News](https://thehackernews.com/): Provides day-to-day updates on high-profile breaches, zero-days, and emerging threat intelligence.  
 [Bleeping Computer](https://www.bleepingcomputer.com/): Provides news on the latest security threats, technology news, ways to stay protected online, and how to use their computers more efficiently.  
 [Infosecurity Magazine](https://www.infosecurity-magazine.com/): Covers industry trends, compliance, leadership, and technical defenses.  
-[Dark reding](https://www.darkreading.com/): Covers enterprise security, cyber threats, and defensive strategies for security professionals.  
+[Dark Reading](https://www.darkreading.com/): Covers enterprise security, cyber threats, and defensive strategies for security professionals.  
